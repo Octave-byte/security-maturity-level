@@ -4,8 +4,8 @@
 | Category    | Security Maturity Level  | Comments    |
 | ------------- |:-------------:|:-------------:|
 | Audits |   level 4             |   1. Only partly formal verification       |         
-| Bug Bounty |      Level 4          |           |      
-| Value at Risk |    Level 4            |           |      
+| Bug Bounty |      Level 5          |           |      
+| Value at Risk |    Level 5            |           |      
 
 ## Audits
 | Date | Performed by  |  Duration  |  Scope |  Findings  | Findings addressed | Summary |  
@@ -21,7 +21,7 @@
 ## Bug Bounty
  - Bug bounty competitive?
 
- No, only up to $45,000
+$100.000
 
  - Payouts in the past?
 

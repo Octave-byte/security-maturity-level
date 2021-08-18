@@ -5,7 +5,7 @@
 | ------------- |:-------------:|:-------------:|
 | Audits |         Level 4       |      Thanks to the fork nature, SushiSwap profits from Uniswap's and Compound's previous security programs (in addition, refer to https://docs.google.com/document/d/19mqFEsDE9LLhtQ-XJO10QhsRrexGZe0qf6zhN0nRQoY/edit#heading=h.ueq6h6rlfh91)      |         
 | Bug Bounty |    Level 5            |       |      
-| Value at Risk |     Level 4           |           |      
+| Value at Risk |     Level 5           |           |      
 
 ## Audits
 | Date | Performed by  |  Duration  |  Scope |  Findings  | Findings addressed | Summary | Major changes since audit |  

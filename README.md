@@ -5,20 +5,20 @@
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
 | [Compound](assessments/Compound.md) |  Level 5 ⭐  |  timelock | decentralized, community multisig oracle failover |  Aug 12, 2021  |        
 | [Aave](assessments/Aave.md) |     Level 5 ⭐     | timelock  | decentralized, Aave team controls failover oracle |  Aug 12, 2021  |            
-| [MakerDAO MCD](assessments/MakerDAO_MCD.md) | Level 5 ⭐ | | |  
-| [Uniswap v2](assessments/Uniswap2.md) |  Level 4 🟢 | | |
-| [SushiSwap](assessments/Sushiswap.md) |  Level 4  🟢  | | |           
-| [Yearn Finance](assessments/Yearn.md) |  Level 4 🟢 | | |            
-| [Bancor](assessments/Bancor.md) |       Level 4 🟢   | | |
-| [Synthetix](assessments/Synthetix.md) |   Level 3  🟡   | | |        
-| [ReflexerLabs](assessments/ReflexerLabs.md) |   Level 3  🟡   | | |    
-| [Alchemix](assessments/Alchemix.md) |   Level 3  🟡   | | |   
-| [Curve](assessments/Curve.md) |   Level 3  🟡   | | |   
-| [Convex Finance](assessments/Convex.md) |   Level 3  🟡   | | |   
-| [Idle Finance](assessments/Idle.md) |   Level 3  🟡   | | |   
-| [UMA](assessments/UMA.md) |        Level 3  🟡     | | |    
-| [Argent](assessments/Argent.md) |   Level 3  🟡   | | |                  
-| [Origin Dollar](assessments/Origin_Dollar.md) |  Level 2 🟠| | |            
+| [MakerDAO MCD](assessments/MakerDAO_MCD.md) | Level 5 ⭐ | timelock | decentralized |  Aug 18, 2021
+| [Uniswap v2](assessments/Uniswap2.md) |  Level 4 🟢 | timelock | - | Aug 17, 2021
+| [SushiSwap](assessments/Sushiswap.md) |  Level 4  🟢  | offchain, multisig| - |  Aug 17, 2021         
+| [Yearn Finance](assessments/Yearn.md) |  Level 4 🟢 | offchain, multisig | - |  Aug 17, 2021            
+| [Bancor](assessments/Bancor.md) |       Level 4 🟢   | offchain, multisig  | decentralized|  Aug 17, 2021
+| [Synthetix](assessments/Synthetix.md) |   Level 4 🟢   | council-based, delegated | decentralized |  Aug 18, 2021      
+| [Curve](assessments/Curve.md) |   Level 4  🟢   | timelock, emergency multisig | decentralized |  Aug 16, 2021   
+| [ReflexerLabs](assessments/ReflexerLabs.md) |   Level 3  🟡   | temp. gov, admin, multisig | decentralized |    Aug 16, 2021
+| [Alchemix](assessments/Alchemix.md) |   Level 3  🟡   |  multisig | - |   Aug 16, 2021
+| [Convex Finance](assessments/Convex.md) |   Level 3  🟡   | multisig | - |   Aug 16, 2021
+| [Idle Finance](assessments/Idle.md) |   Level 3  🟡   |timelock | decentralized |   Aug 16, 2021
+| [UMA](assessments/UMA.md) |        Level 3  🟡     | timelock| optimistic oracle |    Aug 16, 2021   
+| [Argent](assessments/Argent.md) |   Level 3  🟡   | - | - |   Aug 16, 2021              
+| [Origin Dollar](assessments/Origin_Dollar.md) |  Level 2 🟠| multisig | decentralized |    Aug 18, 2021          
 
 
 ## Disclaimer

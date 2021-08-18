@@ -4,7 +4,7 @@
 | Category    | Security Maturity Level  | Comments    |
 | ------------- |:-------------:|:-------------:|
 | Audits |       Level 3         |   Only very limited formal verification, sticks to one audit company only        |         
-| Bug Bounty |   Level 3             |           |      
+| Bug Bounty |   Level 5             |           |      
 | Value at Risk |   Level 5             |           |      
 
 ## Audits
@@ -20,8 +20,7 @@
 ## Bug Bounty
  - Bug bounty competitive?
 
- No, up to $5k
-
+Yes, up to $200k
  - Payouts in the past?
 
  No public information found.
